@@ -6,7 +6,7 @@ Thomas A. Limoncelli, Strata R. Chalup, and Christina J. Hogan
 Last accessed on Thursday May 3, 2018
 213 Highlight(s)
 
-## ## Location: 654
+## Location: 654
 The system is resilient to failure. Rather than being surprised by failures and treating them as exceptions, the architecture accepts that hardware and software failures are a part of the physics of information technology (IT).
                 
 
