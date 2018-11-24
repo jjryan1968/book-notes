@@ -1,13 +1,11 @@
 # Essentialism: The Disciplined Pursuit of Less
 
-![](/images/essentialism.png)
-
-<img src="images/essentialism.png"
-
+![](/images/essentialism.jpg)
 
 Greg McKeown
+
 Last accessed on Thursday October 4, 2018
-161 Highlight(s)## 0 Note(s)
+161 Highlights
 
 
 ## Page: 2
