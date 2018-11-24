@@ -39,7 +39,7 @@ Sorry, we’re unable to display this type of content.
         
 
 ## Location: 1,098
-Figure 1.10: Numbers every engineer should know
+Numbers every engineer should know
                 
 
 ## Location: 1,167
