@@ -1,12 +1,12 @@
 # Essentialism: The Disciplined Pursuit of Less
 
-<img src="jeffjryan/images/essentialism.jpg" width=300>
+<img src="https://github.com/jeffjryan/images/blob/master/essentialism.jpg" width=200>
+
 
 Greg McKeown
 
 Last accessed on Thursday October 4, 2018
 161 Highlights
-
 
 ## Page: 2
 “Is this the very most important thing I should be doing with my time and resources right now?”
@@ -650,4 +650,3 @@ Out of all virtues simplicity is my most favorite virtue. So much so that I tend
 
 ## Page: 246
 steal, nor envy, anger, abuse, kill. Everyone will have enough and plenty so need not hoard, speculate, gamble, hate. When character is beautiful, you are beautiful. That is the beauty of simplicity.
-
