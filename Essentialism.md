@@ -1,6 +1,6 @@
 # Essentialism: The Disciplined Pursuit of Less
 
-![](/images/essentialism.jpg)
+<img src="images/essentialism.jpg" width=300>
 
 Greg McKeown
 
