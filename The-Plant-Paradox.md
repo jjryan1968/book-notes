@@ -1,7 +1,7 @@
 Kindle Notes For:
 
 # The Plant Paradox: The Hidden Dangers in "Healthy" Foods That Cause Disease and Weight Gain
-
+[Link to purchase on Amazon:](https://www.amazon.com/Plant-Paradox-Dangers-Healthy-Disease-ebook/dp/B01IMYGX8S/ref=sr_1_3?s=books&ie=UTF8&qid=1543782366&sr=1-3&keywords=the+plant+paradox+steven+gundry)  
 <img src="https://github.com/jeffjryan/images/blob/master/Plant-Paradox.jpg" width=200>
 
 Steven R. Gundry
