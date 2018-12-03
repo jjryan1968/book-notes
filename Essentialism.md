@@ -3,14 +3,17 @@
 [Link to purchase on Amazon:](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown-ebook/dp/B00G1J1D28/ref=sr_1_4?s=books&ie=UTF8&qid=1543782752&sr=1-4&keywords=essentialism)
 
 <img src="https://github.com/jeffjryan/images/blob/master/essentialism.jpg" width=200>
-
-
 Greg McKeown
 
 Last accessed on Thursday October 4, 2018
-161 Highlights
+`161 Highlights`
 
-## Page: 2
+## General Observations and Thoughts about the book:
+   .
+   .
+   .
+   
+### Page: 2
 “Is this the very most important thing I should be doing with my time and resources right now?”
                 
 
